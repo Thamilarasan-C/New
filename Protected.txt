@@ -1,0 +1,2 @@
+when we use protected as an access modifier then the  member can be accessed in same class, 
+in same package subclass and same package non subclass, different package subclass and can't be accessed in different package non subclass
