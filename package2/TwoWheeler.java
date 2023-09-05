@@ -11,7 +11,7 @@ public class TwoWheeler extends Vehicle {
     }
 
     public TwoWheeler(int price, int cc) {
-        this();
+        // this();
         this.price = price;
         this.cc = cc;
         System.out.println("Bike");
