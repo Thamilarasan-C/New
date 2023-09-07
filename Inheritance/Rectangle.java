@@ -16,5 +16,8 @@ public class Rectangle extends Shape {
         Rectangle r1 = new Rectangle();
         r1.draw("Rectangle", 20);
         r1.details();
+        // r1.super.details();
+        System.out.println(r1.name);
+        // System.out.println(r1.super.name);
     }
 }
